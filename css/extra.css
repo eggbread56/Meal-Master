@@ -1,0 +1,192 @@
+.collapsed-row {
+    display: none;
+}
+
+.extend-icon {
+    margin-right: 10px;
+}
+
+.sidebar-wrapper {
+    height: 100vh;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    margin-right: 10px;
+}
+
+.add-button {
+    margin-bottom: 20px!important;
+}
+
+div.dataTables_wrapper div.dataTables_filter input {
+    border-radius: 30px;
+    border: 1px solid rgb(222 226 230) !important;
+    padding: 8px;
+}
+
+.more-user-info {
+    cursor: pointer;
+}
+
+.add-row-procedure {
+    display: flex;
+    margin-top: 10px!important;
+    margin-right: 0px!important;
+    justify-content: right;
+}
+
+.minus-row-procedure {
+    display: flex;
+    margin-top: 10px!important;
+    margin-right: 0px!important;
+    justify-content: right;
+}
+
+.add-row-ingredient {
+    display: flex;
+    margin-top: 10px!important;
+    margin-right: 0px!important;
+    justify-content: right;
+}
+
+.minus-row-ingredient {
+    display: flex;
+    margin-top: 10px!important;
+    margin-right: 0px!important;
+    justify-content: right;
+}
+
+.add-row-procedure::before {
+    cursor: pointer;
+}
+.minus-row-procedure::before {
+    cursor: pointer;
+}
+.add-row-ingredient::before {
+    cursor: pointer;
+}
+.minus-row-ingredient::before {
+    cursor: pointer;
+}
+
+.custom-li-border {
+    border-width: 1 1 1px!important;
+}
+
+.custom-li-border h6 {
+    display: inline;
+    font-size: 18px;
+}
+
+.more-content {
+    display: none;
+}
+
+.recipeCarouselName {
+    background-color: #f1f0f0b7;
+    color: #000000;
+}
+
+.carousel-control-prev {
+    height: 100px!important;
+    width: 100px!important;
+    top: 100px!important;
+}
+
+.carousel-control-next {
+    height: 100px!important;
+    width: 100px!important;
+    top: 100px!important;
+}
+
+.save-recipe-btn {
+    height: 39px;
+    width: 39px;
+    left: 100px;
+}
+
+.save-favorite-recipe-btn {
+    height: 40px;
+    width: 40px;
+    left: 100px;
+}
+
+.btn-danger {
+    margin-right: 10px;
+}
+
+#sidebar {
+    position: sticky;
+    top: 0;
+    height: 100vh;
+}
+
+.top-63 {
+    top: 63%!important;
+}
+
+.start-80 {
+    left: 80%!important;
+}
+
+.save-badge {
+    padding: 8px!important;
+}
+
+.fc-daygrid-day-frame {
+    height: 160px!important;
+    cursor: pointer;
+}
+
+.carousel-meal-image {
+    width: 100%;
+    height: 200px;
+    max-height: 300px;
+    object-fit: cover;
+}
+
+.position-relative {
+    position: relative;
+}
+
+.section-overlay {
+    pointer-events: auto;
+    z-index: 9999;
+}
+
+.top-20 {
+    top: 8%;
+}
+
+.card_today {
+    height: 350px;
+  }
+  
+.card_today .card_today-img-top {
+    object-fit: cover;
+    height: 70%;
+}
+
+.card_today .card_today-body {
+    height: 30%;
+    overflow: hidden;
+}
+
+.card_today .card_today-title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.meals-container {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+  }
+  
+  .center-meals {
+    text-align: center;
+  }
